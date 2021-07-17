@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EY.BL/1.0.0": {
+        "dependencies": {
+          "EY.Core": "1.0.0"
+        },
+        "runtime": {
+          "EY.BL.dll": {}
+        }
+      },
+      "EY.Core/1.0.0": {
+        "runtime": {
+          "EY.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EY.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EY.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

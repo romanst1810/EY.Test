@@ -1,0 +1,12 @@
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\obj\Debug\netcoreapp3.1\EY.BL.csproj.AssemblyReference.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\obj\Debug\netcoreapp3.1\EY.BL.AssemblyInfoInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\obj\Debug\netcoreapp3.1\EY.BL.AssemblyInfo.cs
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\obj\Debug\netcoreapp3.1\EY.BL.csproj.CoreCompileInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\bin\Debug\netcoreapp3.1\EY.BL.deps.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\bin\Debug\netcoreapp3.1\EY.BL.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\bin\Debug\netcoreapp3.1\EY.BL.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\bin\Debug\netcoreapp3.1\EY.Core.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\bin\Debug\netcoreapp3.1\EY.Core.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\obj\Debug\netcoreapp3.1\EY.BL.csproj.CopyComplete
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\obj\Debug\netcoreapp3.1\EY.BL.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.BL\obj\Debug\netcoreapp3.1\EY.BL.pdb

@@ -1,0 +1,15 @@
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\obj\Debug\netcoreapp3.1\EY.Data.csproj.AssemblyReference.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\obj\Debug\netcoreapp3.1\EY.Data.AssemblyInfoInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\obj\Debug\netcoreapp3.1\EY.Data.AssemblyInfo.cs
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\obj\Debug\netcoreapp3.1\EY.Data.csproj.CoreCompileInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\bin\Debug\netcoreapp3.1\EY.Data.deps.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\bin\Debug\netcoreapp3.1\EY.Data.runtimeconfig.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\bin\Debug\netcoreapp3.1\EY.Data.runtimeconfig.dev.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\bin\Debug\netcoreapp3.1\EY.Data.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\bin\Debug\netcoreapp3.1\EY.Data.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\bin\Debug\netcoreapp3.1\EY.Core.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\bin\Debug\netcoreapp3.1\EY.Core.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\obj\Debug\netcoreapp3.1\EY.Data.csproj.CopyComplete
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\obj\Debug\netcoreapp3.1\EY.Data.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\obj\Debug\netcoreapp3.1\EY.Data.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\EY.Test\EY.Data\obj\Debug\netcoreapp3.1\EY.Data.genruntimeconfig.cache
